@@ -1,5 +1,5 @@
 
-[release]: https://github.com/StuffzEZ/ZimaOS-OtherImages-rauc/releases
+[release]: https://github.com/StuffzEZ/zimaos-otherimages-rauc/releases
 [release-badge]: https://img.shields.io/github/v/release/StuffzEZ/zimaos-otherimages-rauc?include_prereleases&style=flat-square
 [download]: https://github.com/StuffzEZ/zimaos-otherimages-rauc/releases
 [download-badge]: https://img.shields.io/github/downloads/StuffzEZ/zimaos-otherimages-rauc/total?style=flat-square
