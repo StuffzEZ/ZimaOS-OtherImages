@@ -3,8 +3,8 @@
 [release-badge]: https://img.shields.io/github/v/release/StuffzEZ/zimaos-otherimages?include_prereleases&style=flat-square
 [download]: https://github.com/StuffzEZ/zimaos-otherimages/releases
 [download-badge]: https://img.shields.io/github/downloads/StuffzEZ/zimaos-otherimages/total?style=flat-square
-[community]: https://icewhale.community/t/welcome-to-the-zimaos-open-beta-program/295
-[community-badge]: https://img.shields.io/badge/Contact-community-blue?style=flat-square
+[community]: https://github.com/StuffzEZ/ZimaOS-OtherImages/discussions
+[community-badge]: https://img.shields.io/badge/Contact-Discussions-blue?style=flat-square
 
 <div align="center">
 <img src="./assets/20241126-153324.png" width="100">
@@ -15,7 +15,7 @@
 [![community][community-badge]][community]
 </div>
 
-Welcome to join the public evaluation program of ZimaOS. ZimaOS is evolved from CasaOS, and we have built a release version of ZimaOS for better hardware compatibility and update experience. It will perfectly adapt to the Zima series hardware and also be compatible with x86-64 systems with UEFI.
+This is the unofficial repository for ZimaOS images for other devices. All of these are untested.
 <div align="center">
    <img src="./assets/20250402-150016.png" >
 </div>
