@@ -1,8 +1,8 @@
 
-[release]: https://github.com/StuffzEZ/zimaos-otherimages-rauc/releases
-[release-badge]: https://img.shields.io/github/v/release/StuffzEZ/zimaos-otherimages-rauc?include_prereleases&style=flat-square
-[download]: https://github.com/StuffzEZ/zimaos-otherimages-rauc/releases
-[download-badge]: https://img.shields.io/github/downloads/StuffzEZ/zimaos-otherimages-rauc/total?style=flat-square
+[release]: https://github.com/StuffzEZ/zimaos-otherimages/releases
+[release-badge]: https://img.shields.io/github/v/release/StuffzEZ/zimaos-otherimages?include_prereleases&style=flat-square
+[download]: https://github.com/StuffzEZ/zimaos-otherimages/releases
+[download-badge]: https://img.shields.io/github/downloads/StuffzEZ/zimaos-otherimages/total?style=flat-square
 [community]: https://icewhale.community/t/welcome-to-the-zimaos-open-beta-program/295
 [community-badge]: https://img.shields.io/badge/Contact-community-blue?style=flat-square
 
